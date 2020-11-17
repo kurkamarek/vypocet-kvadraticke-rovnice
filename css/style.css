@@ -1,0 +1,9 @@
+body{
+    background-color:#222629;
+}
+
+#tlacitko {
+    display: block;
+    height: auto;
+    margin: auto;  
+}
