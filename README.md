@@ -1,1 +1,1 @@
-"# vypocet-kvadraticke-rovnice" 
+"Výpočet kvadratické rovnice" 
